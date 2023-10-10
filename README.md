@@ -11,13 +11,13 @@ We recommend using [VS Code](https://code.visualstudio.com/) with [Volar](https:
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/abiodunolunu/nuxt3-starter/generate).
+[Create a repo from this template on GitHub](https://github.com/abiodunolunu/nuxt3-tailwindcss-starter/generate).
 
 ### Clone to local
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit abiodunolunu/nuxt3-starter my-nuxt3-app
+npx degit abiodunolunu/nuxt3-tailwindcss-starter my-nuxt3-app
 cd my-nuxt3-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
